@@ -58,7 +58,9 @@
     <Compile Include="Business\Cidade.cs" />
     <Compile Include="Business\Estado.cs" />
     <Compile Include="Business\PrevisaoClima.cs" />
+    <Compile Include="Interfaces\IBaseRepository.cs" />
     <Compile Include="Interfaces\IServicePrevisaoClima.cs" />
+    <Compile Include="Interfaces\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

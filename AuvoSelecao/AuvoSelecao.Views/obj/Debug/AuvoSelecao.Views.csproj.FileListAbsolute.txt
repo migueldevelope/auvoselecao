@@ -1,0 +1,14 @@
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\AuvoSelecao.Views.dll.config
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\AuvoSelecao.Views.dll
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\AuvoSelecao.Views.pdb
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\EntityFramework.dll
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\Newtonsoft.Json.dll
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\EntityFramework.xml
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\bin\Debug\Newtonsoft.Json.xml
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\obj\Debug\AuvoSelecao.Views.csproj.AssemblyReference.cache
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\obj\Debug\AuvoSelecao.Views.csproj.CoreCompileInputs.cache
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\obj\Debug\AuvoSelecao.Views.csproj.CopyComplete
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\obj\Debug\AuvoSelecao.Views.dll
+C:\SystemCore\auvoselecao\AuvoSelecao\AuvoSelecao.Views\obj\Debug\AuvoSelecao.Views.pdb
