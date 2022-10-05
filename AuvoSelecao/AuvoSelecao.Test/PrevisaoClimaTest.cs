@@ -21,6 +21,10 @@ namespace AuvoSelecao.Test
             IBaseRepository<Estado> repositoryEstado = new BaseRepository<Estado>(unitOfWork);
 
             IServicePrevisaoClima service = new ServicePrevisaoClima(repository, repositoryCidade, repositoryEstado);
+            IServiceCidade serviceCidade = new ServiceCidade(repositoryCidade);
+
+            //verifica cidades
+            var listCD = serviceCidade.List();
 
             //verifica cidades frias
             var listCF = service.ListCidadesFrias();

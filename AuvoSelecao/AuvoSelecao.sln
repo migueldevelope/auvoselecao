@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuvoSelecao.Views", "AuvoSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuvoSelecao.Test", "AuvoSelecao.Test\AuvoSelecao.Test.csproj", "{7FF9DEEC-CF67-4228-822F-F3931F3B5E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuvoSelecao.Web", "AuvoSelecao.Web\AuvoSelecao.Web.csproj", "{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7FF9DEEC-CF67-4228-822F-F3931F3B5E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF9DEEC-CF67-4228-822F-F3931F3B5E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF9DEEC-CF67-4228-822F-F3931F3B5E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

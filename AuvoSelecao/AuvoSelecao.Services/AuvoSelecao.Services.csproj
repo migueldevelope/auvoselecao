@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\ServiceCidade.cs" />
     <Compile Include="Business\ServicePrevisaoClima.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

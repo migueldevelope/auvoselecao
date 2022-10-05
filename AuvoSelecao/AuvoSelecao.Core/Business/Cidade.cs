@@ -22,6 +22,7 @@ namespace AuvoSelecao.Core.Business
         {
             return new ViewCidade()
             {
+                Id = Id,
                 Nome = Nome
             };
         }
