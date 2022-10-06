@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Web\\AuvoSelecao.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj",
+        "projectName": "AuvoSelecao.Core",
+        "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj",
+        "projectName": "AuvoSelecao.Data",
+        "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj"
+              },
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Services\\AuvoSelecao.Services.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Services\\AuvoSelecao.Services.csproj",
+        "projectName": "AuvoSelecao.Services",
+        "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Services\\AuvoSelecao.Services.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj"
+              },
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj"
+              },
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj",
+        "projectName": "AuvoSelecao.Views",
+        "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Web\\AuvoSelecao.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Web\\AuvoSelecao.Web.csproj",
+        "projectName": "AuvoSelecao.Web",
+        "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Web\\AuvoSelecao.Web.csproj",
+        "packagesPath": "C:\\Users\\MiguelEduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MiguelEduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net47",
+            "projectReferences": {
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Core\\AuvoSelecao.Core.csproj"
+              },
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Data\\AuvoSelecao.Data.csproj"
+              },
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Services\\AuvoSelecao.Services.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Services\\AuvoSelecao.Services.csproj"
+              },
+              "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj": {
+                "projectPath": "C:\\SystemCore\\auvoselecao\\AuvoSelecao\\AuvoSelecao.Views\\AuvoSelecao.Views.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net47",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.Web.Optimization": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.43.0, )"
+            },
+            "Microsoft.Owin": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

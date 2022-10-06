@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuvoSelecao.Views", "AuvoSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuvoSelecao.Test", "AuvoSelecao.Test\AuvoSelecao.Test.csproj", "{7FF9DEEC-CF67-4228-822F-F3931F3B5E69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuvoSelecao.Web", "AuvoSelecao.Web\AuvoSelecao.Web.csproj", "{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuvoSelecao.Web", "AuvoSelecao.Web\AuvoSelecao.Web.csproj", "{2A5B8512-6AF8-4372-93BD-2A35DB442BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
