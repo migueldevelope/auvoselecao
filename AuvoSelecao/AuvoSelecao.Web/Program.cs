@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Graph;
 
-namespace AuvoSelecao.Web
+namespace AuvoSelecao
 {
     public class Program
     {
