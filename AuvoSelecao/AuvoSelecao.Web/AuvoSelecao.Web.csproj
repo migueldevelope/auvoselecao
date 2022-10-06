@@ -44,17 +44,24 @@
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
-    <None Include="Views\Home\Index.cshtml" />
-    <None Include="Views\Shared\Error.cshtml" />
-    <None Include="Views\Shared\_Layout.cshtml" />
-    <None Include="Views\Shared\_LoginPartial.cshtml" />
-    <None Include="Views\Web.config" />
-    <None Include="Views\_ViewStart.cshtml" />
-    <None Include="Web.config" />
+   <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Content Include="App.config" />
+	<Content Include="Global.asax" />
+    <Content Include="packages.config" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Web.config" />
+	<Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+  
     <ProjectReference Include="..\AuvoSelecao.Core\AuvoSelecao.Core.csproj">
       <Project>{12093cce-6c84-4276-a580-239046086a8e}</Project>
       <Name>AuvoSelecao.Core</Name>
@@ -162,6 +169,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+  <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\HomeController.cs" />
   </ItemGroup>
   <ItemGroup>

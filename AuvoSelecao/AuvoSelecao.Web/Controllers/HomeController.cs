@@ -21,8 +21,18 @@ namespace AuvoSelecao.Controllers
             //_serviceCidade = serviceCidade;
         }
 
-        
-        
+
+        [HttpGet]
+        [AllowAnonymous]
+        //[ValidateAntiForgeryToken]
+        public async Task<ActionResult> ListCidades()
+        {
+            var model = _serviceCidade.List();
+
+
+            return View(model);
+        }
+
         [HttpGet]
         [AllowAnonymous]
         //[ValidateAntiForgeryToken]
